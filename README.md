@@ -6,6 +6,7 @@ Cómo ejecutar el programa.
 3. Y por ultimo se coloca: python main.py
 
 Ejemplos de salida.
+
 Contraseña encontrada: abc
 
 Intentos: 130508
