@@ -1,8 +1,8 @@
 #Bruteforce
 #Cómo ejecutar el programa.
-1 Se guarda el código en un archivo llamado main.py.
-2 Se abre la terminal en Visual Code con Ctrl + J y se navega en la carpeta en donde se guardo el archivo main.py, con cd /ruta/a/tu/carpeta.
-3 
+1. Se guarda el código en un archivo llamado main.py.
+2. Se abre la terminal en Visual Code con Ctrl + J y se navega en la carpeta en donde se guardo el archivo main.py, con cd /ruta/a/tu/carpeta.
+3. Y por ultimo se coloca: python main.py
 #Ejemplos de salida.
 Contraseña encontrada: abc
 Intentos: 130508
